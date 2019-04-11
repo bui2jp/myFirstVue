@@ -1,4 +1,4 @@
-# VUE
+# my First VUE.js
 
 # version of node and npm 
 ```
@@ -8,3 +8,6 @@ $ node -v
 $ npm -v
  6.4.1
 ```
+
+$ npm install -g @vue/cli
+
